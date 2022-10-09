@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kristian
+- 👀 I’m primarily interested in React JS/TS and a little bit of ASP.NET CORE
+- 🌱 I’m currently learning ASP.NET CORE
+- 💞️ I’m looking to collaborate on any ReactJS/TS projects. 
+- 📫 How to reach me: kristiangeorgiev99ss@abv.bg
